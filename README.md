@@ -20,11 +20,11 @@ The goal this project was to really make sure that I am progressing my CSS to be
 
 ### Screenshot
 
-![Screenshot](Recipe Solution.png)
+![Screenshot](/Recipe%20Solution.png)
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/clydehenry3/New-RP
 - Live Site URL:
 
 ## My process
