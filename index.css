@@ -1,0 +1,84 @@
+body {
+  background-color: #f3e5d8;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  color: #4e4b46;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  color: #000;
+}
+
+h2,
+h3 {
+  font-family: "Libre Baskerville", serif;
+  color: #73392d;
+}
+
+img {
+  width: 550px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.card {
+  background-color: #fff;
+  padding: 32px;
+  border-radius: 24px;
+  width: 550px;
+  margin: 64px auto;
+}
+
+.prep {
+  background-color: #fff7fc;
+  padding: 8px;
+  padding-left: 32px;
+  border-radius: 16px;
+}
+
+p.semi-heading {
+  color: #772848;
+  font-size: 16px;
+}
+
+.section {
+  border-bottom: 0.1px solid #e0e0e0;
+  padding: 8px 0;
+}
+.sectio-end {
+  padding: 8px 0;
+}
+
+li {
+  margin: 12px;
+  margin-left: -20px;
+}
+
+ul {
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 4px;
+  margin-top: 8px;
+  width: 100%;
+}
+
+.row td {
+  padding: 10px;
+  border-bottom: 0.1px solid #e0e0e0;
+}
+.row-end td {
+  padding: 10px;
+}
+
+.category {
+  text-align: left;
+  padding-left: 32px;
+}
+
+.calories {
+  text-align: left;
+  font-weight: bold;
+}
